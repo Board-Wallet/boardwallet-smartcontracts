@@ -1,0 +1,71 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Errors",
+  "sourceName": "contracts/lib/Errors.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "name": "MATH_ADDITION_OVERFLOW",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MATH_DIVISION_BY_ZERO",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "MATH_MULTIPLICATION_OVERFLOW",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_ADDRESS_ZERO",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_BACKUP_ADDRESS_ALREADY_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_BACKUP_ADDRESS_IS_OWNER",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_CANCELED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_INHERITANCE_PERCENTAGE_EXCEEDED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_NO_TRANSCENDENCE",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_SUCCEEDED",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_TESTAMENT_ALREADY_EXISTS",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "T_UNAUTHORIZED",
+      "type": "error"
+    }
+  ],
+  "bytecode": "0x60566037600b82828239805160001a607314602a57634e487b7160e01b600052600060045260246000fd5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200adcd7e0cfd79c5afff0cdcae9016f8fc26e85b1db3380da9d04faf2c578556c64736f6c63430008080033",
+  "deployedBytecode": "0x73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212200adcd7e0cfd79c5afff0cdcae9016f8fc26e85b1db3380da9d04faf2c578556c64736f6c63430008080033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
